@@ -5,6 +5,8 @@ A port of [**Just One Boss** by Ayla Nonsense](https://github.com/aylanonsense/j
 Macintosh Classic** (System 6/7, 8 MHz 68000). Written in C, built with
 [Retro68](https://github.com/autc04/Retro68), runs in Mini vMac or on real hardware.
 
+Part of [Classic Mac Games](https://www.mitchellv.me/work/classic-mac) · by [Mitchell Vizensky](https://www.mitchellv.me), game UX designer
+
 **Ported with the creator's permission.** Play the original at
 [aylanonsense.itch.io](https://aylanonsense.itch.io/) — it's wonderful.
 
